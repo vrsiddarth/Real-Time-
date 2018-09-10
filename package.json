@@ -1,0 +1,16 @@
+{
+    "name": "hello",
+    "version": "0.0.1-a",
+    "description": "hello world",
+    "main": "./helloworld3.js",
+    "dependencies": {
+        "minimist": "~0.0.8",
+        "socket.io": "2.1.1"
+    },
+    "keywords": [
+        "hello",
+        "world"
+    ],
+    "author": "Siddarth V R <vrsiddarth@gmail.com>",
+    "license": "MIT"
+}
